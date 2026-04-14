@@ -187,9 +187,9 @@ python SDC_start.py
 ---
 
 ## Screenshot
+![image](https://github.com/vGuNfnxXLJ/ControlNet-Interactive-Image-Generation-System/blob/main/RealControlNet_01.PNG)
 
-(Add your GUI image here)
-
+![image](https://github.com/vGuNfnxXLJ/ControlNet-Interactive-Image-Generation-System/blob/main/RealControlNet_02.PNG)
 ---
 
 ## External Acknowledgements
